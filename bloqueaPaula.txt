@@ -1,1 +1,2 @@
-/.*/^$client=Mayte_Movil
+/.*/$client=Mayte_Movil
+/.*/$client=Pedro_Movil
