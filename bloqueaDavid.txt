@@ -1,1 +1,1 @@
-||*^$client=David_Movil
+/.*/$client=David_Movil
